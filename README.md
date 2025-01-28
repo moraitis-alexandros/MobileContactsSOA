@@ -1,0 +1,2 @@
+# MobileContactsSOA
+SOA introductory project
