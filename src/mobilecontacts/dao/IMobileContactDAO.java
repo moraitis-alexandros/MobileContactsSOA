@@ -1,7 +1,6 @@
 package mobilecontacts.dao;
 
-import cf.ch18.mobilecontacts.model.MobileContact;
-
+import mobilecontacts.model.MobileContact;
 import java.util.List;
 
 public interface IMobileContactDAO {
