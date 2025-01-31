@@ -9,7 +9,7 @@ public class MobileContactInsertDTO {
 
     }
 
-    public MobileContactInsertDTO(String phoneNumber, String lastname, String firstname) {
+    public MobileContactInsertDTO(String firstname, String lastname, String phoneNumber) {
         this.phoneNumber = phoneNumber;
         this.lastname = lastname;
         this.firstname = firstname;
